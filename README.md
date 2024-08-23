@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DDT
 - 📫 Tiktok : @kieds_
 - 😄 Pronouns: Kaii
-- ⚡ Fun fact: Pandai cakap Melayu English INdonesia
+- ⚡ Fun fact: Pandai cakap Melayu English Indonesia
 
 <!---
 KiedsGitHub/KiedsGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
